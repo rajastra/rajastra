@@ -1,4 +1,4 @@
-# Hi there, I'm Raja Saputera (Cemew) 👋
+# Hi there, I'm Raja Saputera👋
 ## Frontend Web Developer
 
 I am a results-driven **Frontend Web Developer** with a strong focus on **ReactJS, NextJS, and TypeScript**. I specialize in building scalable digital platforms, comprehensive academic management systems, and high-traffic booking platforms serving 5,000+ active users. 
@@ -26,7 +26,7 @@ I am a results-driven **Frontend Web Developer** with a strong focus on **ReactJ
 - **Fullstack Web Developer Bootcamp**, Skilvul (June 2023 - Dec 2023).
 
 ### 📊 GitHub Stats
-![Raja's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajastra&show_icons=true&theme=radium)
+![Raja's GitHub Streak](https://streak-stats.demolab.com/?user=rajastra&theme=radium&hide_border=true)
 
 ### 📫 How to reach me
 - **LinkedIn:** [linkedin.com/in/rajasaputera](https://www.linkedin.com/in/rajasaputera)
